@@ -1,0 +1,1 @@
+linux command line tool for ripping youtube audio. Right now its just mp3. Will add wav audio and maybe video in the future. Might also do a widows version soon since I actually need it for music production stuff. (I know windows is gross but i like ableton and it doesnt play well with arch)
