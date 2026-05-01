@@ -75,7 +75,7 @@ def download_audio(url, output_folder):
             {
                 "key": "FFmpegExtractAudio",
                 "preferredcodec": "mp3",
-                "preferredquality": "192",
+                "preferredquality": "320",
             }
         ],
     }
